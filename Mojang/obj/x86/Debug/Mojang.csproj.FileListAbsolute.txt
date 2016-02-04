@@ -1,0 +1,7 @@
+D:\VSProjects\Mojang\Mojang\Mojang\bin\Debug\Mojang.exe
+D:\VSProjects\Mojang\Mojang\Mojang\bin\Debug\Mojang.pdb
+D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.Form1.resources
+D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.Properties.Resources.resources
+D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.csproj.GenerateResource.Cache
+D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.exe
+D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.pdb
