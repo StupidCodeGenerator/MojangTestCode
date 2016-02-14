@@ -5,13 +5,32 @@ using System.Text;
 
 namespace Mojang {
     public class Agent_AI :Agent {
-        public override void NextStep(Manager manager) {
-            // AI的决策核心函数，决策结束后调用 manager.BehaviorCallBack
-            Behavior testBehavior = new Behavior();
-            testBehavior.behaviorType = BehaviorType.TEST;
-            testBehavior.dataBundle = new Dictionary<string, MOJANG>();
-            this.lastBehavior = testBehavior;
-            manager.BehaviorCallBack(testBehavior,this.agentIndex);
+
+        public Agent_AI(int agentIndex, Manager manager):base(agentIndex, manager) { 
+        }
+
+        public override void AskForChi(Card targetCard) {
+            manager.AskForChiCallback(null, this.agentIndex);
+        }
+
+        public override void AskForZiMo() {
+            manager.AskForZiMoCallback(false, this.agentIndex);
+        }
+
+        public override void AskForAnGang() {
+            manager.AskForAnGangCallback(null, this.agentIndex);
+        }
+
+        public override void AskForHu(Card targetCard) {
+            manager.AskForDianPaoCallback(false, this.agentIndex);
+        }
+
+        public override void AskForPeng(Card targetCard) {
+            manager.AskForPengCallback(null, this.agentIndex);
+        }
+
+        public override void AskForPlay() {
+            manager.AskForPlayCallback(this.holdingCards[0], this.agentIndex);
         }
     }
 }

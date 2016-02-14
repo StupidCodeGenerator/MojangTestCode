@@ -5,3 +5,11 @@ D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.Properties.Resources.res
 D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.csproj.GenerateResource.Cache
 D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.exe
 D:\VSProjects\Mojang\Mojang\Mojang\obj\x86\Debug\Mojang.pdb
+D:\Github\MojangTestCode\Mojang\obj\x86\Debug\Mojang.exe
+D:\Github\MojangTestCode\Mojang\obj\x86\Debug\Mojang.pdb
+D:\Github\MojangTestCode\Mojang\obj\x86\Debug\Mojang.Form1.resources
+D:\Github\MojangTestCode\Mojang\obj\x86\Debug\Mojang.Properties.Resources.resources
+D:\Github\MojangTestCode\Mojang\obj\x86\Debug\Mojang.csproj.GenerateResource.Cache
+D:\Github\MojangTestCode\Mojang\bin\Debug\Mojang.exe
+D:\Github\MojangTestCode\Mojang\bin\Debug\Mojang.pdb
+D:\Github\MojangTestCode\Mojang\obj\x86\Debug\Mojang.csprojResolveAssemblyReference.cache

@@ -48,7 +48,7 @@
   <ItemGroup>
     <Compile Include="Agent.cs" />
     <Compile Include="Agent_AI.cs" />
-    <Compile Include="Behavior.cs" />
+    <Compile Include="Agent_Human.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
